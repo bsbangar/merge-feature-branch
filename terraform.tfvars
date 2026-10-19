@@ -12,4 +12,8 @@ rgs = {
     name     = "rg-majid-github-feature2"
     location = "eastus"
   }
+        rg4 = {
+    name     = "rg-majid-github-feature3"
+    location = "eastus"
+  }
 }
